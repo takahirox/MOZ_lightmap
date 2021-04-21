@@ -47,7 +47,7 @@ T.B.D.
 
 T.B.D.
 
-## Toon material Types
+## Light map Types
 
 | Property | Type | Description | Requires |
 |:------|:------|:------|:------|
