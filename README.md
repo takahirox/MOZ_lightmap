@@ -4,6 +4,8 @@
 
 * Takahiro Aoyagi, Mozilla, [@takahirox](https://github.com/takahirox)
 
+T.B.D.
+
 ## Status
 
 Draft
@@ -49,5 +51,5 @@ T.B.D.
 
 | Property | Type | Description | Requires |
 |:------|:------|:------|:------|
-| `index` | `integer` | The index of texture. | :white_check_mark: Yes |
-| `intensity` | `number` | light map intensity | No, default is `1.0` |
+| **index** | `integer` | The index of texture. | :white_check_mark: Yes |
+| **intensity** | `number` | Light map intensity. | No, default is `1.0` |
