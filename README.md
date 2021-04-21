@@ -50,4 +50,4 @@ T.B.D.
 | Property | Type | Description | Requires |
 |:------|:------|:------|:------|
 | `index` | `integer` | The index of texture. | :white_check_mark: Yes |
-| `intensity` | `boolean` | light map intensity | No, default is `1.0` |
+| `intensity` | `number` | light map intensity | No, default is `1.0` |
